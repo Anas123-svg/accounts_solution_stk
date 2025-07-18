@@ -44,7 +44,7 @@
 
 								<!-- Start::slide -->
 								<li class="slide has-sub">
-									<a href="javascript:void(0);" class="side-menu__item">
+								<!--	<a href="javascript:void(0);" class="side-menu__item">
 										<svg xmlns="http://www.w3.org/2000/svg" class="side-menu__icon" height="24px"
 											viewBox="0 0 24 24" width="24px" fill="#000000">
 											<path d="M0 0h24v24H0V0z" fill="none"></path>
@@ -54,7 +54,7 @@
 										</svg>
 										<span class="side-menu__label">Nested Menu</span>
 										<i class="fe fe-chevron-right side-menu__angle"></i>
-									</a>
+									</a> -->
 									<ul class="slide-menu child1">
 										<li class="slide side-menu__label1">
 											<a href="javascript:void(0);">Nested Menu</a>

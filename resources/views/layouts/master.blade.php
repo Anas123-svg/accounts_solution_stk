@@ -7,16 +7,16 @@
         <meta charset="UTF-8">
         <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=0'>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="description" content="vexel – Laravel Bootstrap 5  Admin & Dashboard Template">
+        <meta name="description" content="Accounts">
         <meta name="author" content="Spruko Technologies Private Limited">
         <meta name="keywords" content="admin panel template, admin dashboard template, admin panel, bootstrap admin template, dashboard, laravel, bootstrap dashboard, admin dashboard, admin panel laravel template, laravel framework, admin laravel, laravel admin panel.">
 
 		<!-- TITLE -->
-        <title>Vexel – Laravel Bootstrap 5 Admin &amp; Dashboard Template </title>
+        <title>Accounts </title>
 
-        <!-- Favicon -->
+        <!-- Favicon 
         <link rel="icon" href="{{asset('build/assets/images/brand/favicon.ico')}}" type="image/x-icon">
-
+-->
         <!-- ICONS CSS -->
         <link href="{{asset('build/assets/iconfonts/icons.css')}}" rel="stylesheet">
 
