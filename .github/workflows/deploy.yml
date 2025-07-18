@@ -30,4 +30,4 @@ jobs:
             cd /home/xoftkfnz/accounts-solution.xoftics.com
 
             # Pull the latest changes from the repository
-            git pull origin master
+            git pull origin master  
