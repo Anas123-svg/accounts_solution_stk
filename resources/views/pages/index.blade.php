@@ -22,7 +22,225 @@
 
     <!-- CONTAINER -->
     <div class="main-container container-fluid">
+            <div class="col-xl-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title mb-0">Transaction Details</Details></h3>
+                    </div>
+                    <div class="card-body pt-4">
+                        <div class="grid-margin">
+                            <div class="table-responsive">
+                                <table class="table table-bordered text-nowrap mb-0">
+                                    <thead class="border-top">
+                                        <tr>
+                                            <th class="wp-5 border-bottom-0 my-auto text-center">
+                                                <input class="form-check-input check-all" type="checkbox" value=""
+                                                    id="checkebox-sm">
+                                            </th>
+                                            <th class="border-bottom-0">date</th>
+                                            <th class="border-bottom-0">entery no</th>
+                                            <th class="border-bottom-0">narration</th>
+                                            <th class="border-bottom-0">debit</th>
+                                            <th class="border-bottom-0">credit</th>
+                                            <th class="border-bottom-0 text-center">balance</th>
+                                            <th class="border-bottom-0">cheque_number</th>
+                                            <th class="border-bottom-0">cheque_date</th>
+                                            
+                                            <th class="border-bottom-0">effect</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr class="border-bottom user-list">
+                                            <td class="user-checkbox text-center">
+                                                <input class="form-check-input" type="checkbox" value="" checked="">
+                                            </td>
+                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a>
+                                            </td>
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">#CV050081</a></td>
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">T+2 BUY # 761996 GLAXO 9737</a></td>
 
+                                            <td class="fs-14">
+                                                <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
+                                            </td>
+                                            <td class="text-center">0</td>
+                                            <td class="text-center">21,694,253.31</td>
+                                            <!--<td><span
+                                                    class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
+                                            </td>-->
+                                            <td class="fs-14 fw-semibold">#1539078</td>
+                                            <td>
+                                                <span class="me-2">25 Mar 2022</span>
+                                            </td>
+                                            <td class="text-center"></td>
+
+                                            <td>
+                                                <div class="hstack gap-2 fs-1">
+                                                    <a aria-label="anchor" href="javascript:void(0);"
+                                                        class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
+                                                        <i class="ri-edit-line"></i></a>
+                                                    <a aria-label="anchor" href="javascript:void(0);"
+                                                        class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
+                                                        <i class="ri-delete-bin-7-line"></i>
+                                                    </a>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr class="border-bottom user-list">
+                                            <td class="user-checkbox text-center">
+                                                <input class="form-check-input" type="checkbox" value="">
+                                            </td>
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">29/07/2025</a></td>
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">#CV050081</a></td>
+
+                                            <!--<td>
+                                                    --<div class="d-flex align-items-center">
+                                                                <span class="avatar avatar-sm avatar-radius me-2">
+                                                                    <img src="{{asset('build/assets/images/shop/2.png')}}"
+                                                                        class="avatar-radius" alt="product">
+                                                                </span>
+                                                                Two type of watch sets
+                                                            </div>
+                                                    </td>-->
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">T+2 BUY # 761996 GLAXO 9737</a></td>
+                                            <td class="fs-14">
+                                                <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
+                                            </td>
+                                            <td class="text-center">0</td>
+                                            <td class="text-center">21,694,253.31</td>
+                                            <td class="fs-14 fw-semibold">#1539078</td>
+                                            <td>
+                                                <span class="me-2">25 Mar 2022</span>
+                                            </td>
+                                                                                        <td class="text-center"></td>
+
+                                                                                        <td>
+                                                <div class="hstack gap-2 fs-1">
+                                                    <a aria-label="anchor" href="javascript:void(0);"
+                                                        class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
+                                                        <i class="ri-edit-line"></i></a>
+                                                    <a aria-label="anchor" href="javascript:void(0);"
+                                                        class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
+                                                        <i class="ri-delete-bin-7-line"></i>
+                                                    </a>
+                                                </div>
+                                            </td>
+
+
+                                        </tr>
+                                        <tr class="border-bottom user-list">
+                                            <td class="user-checkbox text-center">
+                                                <input class="form-check-input" type="checkbox" value="">
+                                            </td>
+                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a></td>
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">#CV050081</a></td>
+
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">T+2 BUY # 761996 GLAXO 9737</a></td>
+                                            <td class="fs-14">
+                                                <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
+                                            </td>
+                                            <td class="text-center">0</td>
+                                            <td class="text-center">21,694,253.31</td>
+                                            <td class="fs-14 fw-semibold">#1539078</td>
+                                            <td>
+                                                <span class="me-2">27 Feb 2022</span>
+                                            </td>
+                                                                                        <td class="text-center"></td>
+                                            <td>
+                                                <div class="hstack gap-2 fs-1">
+                                                    <a aria-label="anchor" href="javascript:void(0);"
+                                                        class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
+                                                        <i class="ri-edit-line"></i></a>
+                                                    <a aria-label="anchor" href="javascript:void(0);"
+                                                        class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
+                                                        <i class="ri-delete-bin-7-line"></i>
+                                                    </a>
+                                                </div>
+                                            </td>
+
+                                        </tr>
+                                        <tr class="border-bottom user-list">
+                                            <td class="user-checkbox text-center">
+                                                <input class="form-check-input" type="checkbox" value="">
+                                            </td>
+                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a></td>
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">#CV050081</a></td>
+                                            </td>
+
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">T+2 BUY # 761996 GLAXO 9737 </a></td>
+                                            <td class="fs-14">
+                                                <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
+                                            </td>
+                                            <td class="text-center">0</td>
+                                            <td class="text-center">21,694,253.31</td>
+                                            <td class="fs-14 fw-semibold">#1539078</td>
+                                            <td>
+                                                <span class="me-2">2 Apr 2022</span>
+                                            </td>
+
+                                                                                        <td class="text-center"></td>
+                                            <td>
+                                                <div class="hstack gap-2 fs-1">
+                                                    <a aria-label="anchor" href="javascript:void(0);"
+                                                        class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
+                                                        <i class="ri-edit-line"></i></a>
+                                                    <a aria-label="anchor" href="javascript:void(0);"
+                                                        class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
+                                                        <i class="ri-delete-bin-7-line"></i>
+                                                    </a>
+                                                </div>
+                                            </td>
+
+                                            <td>
+                                        <tr class="border-bottom user-list">
+                                            <td class="user-checkbox text-center">
+                                                <input class="form-check-input" type="checkbox" value="">
+                                            </td>
+                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a></td>
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">#CV050081</a></td>
+
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">T+2 BUY # 761996 GLAXO 9737</a></td>
+                                            <td class="fs-14">
+                                                <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
+                                            </td>
+                                            <td class="text-center">0</td>
+                                            <td class="text-center">21,694,253.31</td>
+                                            <td class="fs-14 fw-semibold">#1539078</td>
+                                            <td>
+                                                <span class="me-2">8 Apr 2022</span>
+                                            </td>
+                                                                                        <td class="text-center"></td>
+                                            <td>
+                                                <div class="hstack gap-2 fs-1">
+                                                    <a aria-label="anchor" href="javascript:void(0);"
+                                                        class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
+                                                        <i class="ri-edit-line"></i></a>
+                                                    <a aria-label="anchor" href="javascript:void(0);"
+                                                        class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
+                                                        <i class="ri-delete-bin-7-line"></i>
+                                                    </a>
+                                                </div>
+                                            </td>
+
+                                            <td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         <!-- Start::Row-1 -->
         <div class="row">
             <div class="col-xxl-9">
@@ -761,7 +979,7 @@
             <div class="col-xl-12">
                 <div class="card">
                     <div class="card-header">
-                        <h3 class="card-title mb-0">Product Sales</h3>
+                        <h3 class="card-title mb-0">Transaction Details</Details></h3>
                     </div>
                     <div class="card-body pt-4">
                         <div class="grid-margin">
@@ -773,15 +991,16 @@
                                                 <input class="form-check-input check-all" type="checkbox" value=""
                                                     id="checkebox-sm">
                                             </th>
-                                            <th class="border-bottom-0">Order no</th>
-                                            <th class="border-bottom-0">Product</th>
-                                            <th class="border-bottom-0">Ratings</th>
-                                            <th class="border-bottom-0">Customer</th>
-                                            <th class="border-bottom-0 text-center">Quantity</th>
-                                            <th class="border-bottom-0">Status</th>
-                                            <th class="border-bottom-0">Price</th>
-                                            <th class="border-bottom-0">Ordered date</th>
-                                            <th class="border-bottom-0">Actions</th>
+                                            <th class="border-bottom-0">date</th>
+                                            <th class="border-bottom-0">entery no</th>
+                                            <th class="border-bottom-0">narration</th>
+                                            <th class="border-bottom-0">debit</th>
+                                            <th class="border-bottom-0">credit</th>
+                                            <th class="border-bottom-0 text-center">balance</th>
+                                            <th class="border-bottom-0">cheque_number</th>
+                                            <th class="border-bottom-0">cheque_date</th>
+                                            
+                                            <th class="border-bottom-0">effect</th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -789,32 +1008,27 @@
                                             <td class="user-checkbox text-center">
                                                 <input class="form-check-input" type="checkbox" value="" checked="">
                                             </td>
-                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">#1537890</a>
+                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a>
                                             </td>
-                                            <td>
-                                                <div class="d-flex align-items-center">
-                                                    <span class="avatar avatar-sm avatar-radius me-2">
-                                                        <img src="{{asset('build/assets/images/shop/1.png')}}"
-                                                            class="avatar-radius" alt="product">
-                                                    </span>
-                                                    A semi minimal chair
-                                                </div>
-                                            </td>
-                                            <td class="fw-semibold fs-15">
-                                                5.0 <span class="text-muted fw-normal fs-12">(90 Mem)</span> <i
-                                                    class="fa fa-star text-warning fs-12"></i>
-                                            </td>
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">#CV050081</a></td>
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">T+2 BUY # 761996 GLAXO 9737</a></td>
+
                                             <td class="fs-14">
-                                                <a class="text-dark" href="javascript:void(0);">Simon Cowall</a>
+                                                <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
                                             </td>
-                                            <td class="text-center">1</td>
-                                            <td><span
+                                            <td class="text-center">0</td>
+                                            <td class="text-center">21,694,253.31</td>
+                                            <!--<td><span
                                                     class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
-                                            </td>
-                                            <td class="fs-14 fw-semibold">$4320.29</td>
+                                            </td>-->
+                                            <td class="fs-14 fw-semibold">#1539078</td>
                                             <td>
                                                 <span class="me-2">25 Mar 2022</span>
                                             </td>
+                                            <td class="text-center"></td>
+
                                             <td>
                                                 <div class="hstack gap-2 fs-1">
                                                     <a aria-label="anchor" href="javascript:void(0);"
@@ -832,32 +1046,33 @@
                                                 <input class="form-check-input" type="checkbox" value="">
                                             </td>
                                             <td class="fs-14 fw-semibold text-success"><a class="text-dark"
-                                                    href="#">#1539078</a></td>
-                                            <td>
-                                                <div class="d-flex align-items-center">
-                                                    <span class="avatar avatar-sm avatar-radius me-2">
-                                                        <img src="{{asset('build/assets/images/shop/2.png')}}"
-                                                            class="avatar-radius" alt="product">
-                                                    </span>
-                                                    Two type of watch sets
-                                                </div>
-                                            </td>
-                                            <td class="fw-semibold fs-15">
-                                                3.0 <span class="text-muted fw-normal fs-12">(50 Mem)</span> <i
-                                                    class="fa fa-star text-warning fs-12"></i>
-                                            </td>
+                                                    href="#">29/07/2025</a></td>
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">#CV050081</a></td>
+
+                                            <!--<td>
+                                                    --<div class="d-flex align-items-center">
+                                                                <span class="avatar avatar-sm avatar-radius me-2">
+                                                                    <img src="{{asset('build/assets/images/shop/2.png')}}"
+                                                                        class="avatar-radius" alt="product">
+                                                                </span>
+                                                                Two type of watch sets
+                                                            </div>
+                                                    </td>-->
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">T+2 BUY # 761996 GLAXO 9737</a></td>
                                             <td class="fs-14">
-                                                <a class="text-dark" href="javascript:void(0);">Meisha Kerr</a>
+                                                <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
                                             </td>
-                                            <td class="text-center">2</td>
-                                            <td><span
-                                                    class="badge badge-sm bg-danger-transparent text-danger fw-normal fs-11">Cancelled</span>
-                                            </td>
-                                            <td class="fs-14 fw-semibold">$6745.99</td>
+                                            <td class="text-center">0</td>
+                                            <td class="text-center">21,694,253.31</td>
+                                            <td class="fs-14 fw-semibold">#1539078</td>
                                             <td>
                                                 <span class="me-2">25 Mar 2022</span>
                                             </td>
-                                            <td>
+                                                                                        <td class="text-center"></td>
+
+                                                                                        <td>
                                                 <div class="hstack gap-2 fs-1">
                                                     <a aria-label="anchor" href="javascript:void(0);"
                                                         class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
@@ -868,38 +1083,29 @@
                                                     </a>
                                                 </div>
                                             </td>
+
+
                                         </tr>
                                         <tr class="border-bottom user-list">
                                             <td class="user-checkbox text-center">
                                                 <input class="form-check-input" type="checkbox" value="">
                                             </td>
-                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">#1539832</a></td>
-                                            <td>
-                                                <div class="d-flex align-items-center">
-                                                    <span class="avatar avatar-sm avatar-radius me-2">
-                                                        <img src="{{asset('build/assets/images/shop/4.png')}}"
-                                                            class="avatar-radius" alt="product">
-                                                    </span>
-                                                    Mony layer headphones
+                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a></td>
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">#CV050081</a></td>
 
-                                                </div>
-                                            </td>
-                                            <td class="fw-semibold fs-15">
-                                                4.5 <span class="text-muted fw-normal fs-12">(65 Mem)</span> <i
-                                                    class="fa fa-star text-warning fs-12"></i>
-                                            </td>
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">T+2 BUY # 761996 GLAXO 9737</a></td>
                                             <td class="fs-14">
-                                                <a class="text-dark" href="javascript:void(0);">Jessica</a>
+                                                <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
                                             </td>
-                                            <td class="text-center">1</td>
-                                            <td><span
-                                                    class="badge badge-sm bg-info-transparent text-info fw-normal fs-11">Under
-                                                    Process</span>
-                                            </td>
-                                            <td class="fs-14 fw-semibold">$1176.89</td>
+                                            <td class="text-center">0</td>
+                                            <td class="text-center">21,694,253.31</td>
+                                            <td class="fs-14 fw-semibold">#1539078</td>
                                             <td>
                                                 <span class="me-2">27 Feb 2022</span>
                                             </td>
+                                                                                        <td class="text-center"></td>
                                             <td>
                                                 <div class="hstack gap-2 fs-1">
                                                     <a aria-label="anchor" href="javascript:void(0);"
@@ -911,36 +1117,30 @@
                                                     </a>
                                                 </div>
                                             </td>
+
                                         </tr>
                                         <tr class="border-bottom user-list">
                                             <td class="user-checkbox text-center">
                                                 <input class="form-check-input" type="checkbox" value="">
                                             </td>
-                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">#1538267</a></td>
-                                            <td>
-                                                <div class="d-flex align-items-center">
-                                                    <span class="avatar avatar-sm avatar-radius me-2">
-                                                        <img src="{{asset('build/assets/images/shop/3.png')}}"
-                                                            class="avatar-radius" alt="product">
-                                                    </span>
-                                                    Sportive coloured shoes
-                                                </div>
+                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a></td>
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">#CV050081</a></td>
                                             </td>
-                                            <td class="fw-semibold fs-15">
-                                                2.5 <span class="text-muted fw-normal fs-12">(15 Mem)</span> <i
-                                                    class="fa fa-star text-warning fs-12"></i>
-                                            </td>
+
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">T+2 BUY # 761996 GLAXO 9737 </a></td>
                                             <td class="fs-14">
-                                                <a class="text-dark" href="javascript:void(0);">Jason Stathman</a>
+                                                <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
                                             </td>
-                                            <td class="text-center">1</td>
-                                            <td><span
-                                                    class="badge badge-sm bg-warning-transparent text-warning fw-normal fs-11">Pending</span>
-                                            </td>
-                                            <td class="fs-14 fw-semibold">$1867.29</td>
+                                            <td class="text-center">0</td>
+                                            <td class="text-center">21,694,253.31</td>
+                                            <td class="fs-14 fw-semibold">#1539078</td>
                                             <td>
                                                 <span class="me-2">2 Apr 2022</span>
                                             </td>
+
+                                                                                        <td class="text-center"></td>
                                             <td>
                                                 <div class="hstack gap-2 fs-1">
                                                     <a aria-label="anchor" href="javascript:void(0);"
@@ -952,35 +1152,28 @@
                                                     </a>
                                                 </div>
                                             </td>
+
+                                            <td>
                                         <tr class="border-bottom user-list">
                                             <td class="user-checkbox text-center">
                                                 <input class="form-check-input" type="checkbox" value="">
                                             </td>
-                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">#1537890</a></td>
-                                            <td>
-                                                <div class="d-flex align-items-center">
-                                                    <span class="avatar avatar-sm avatar-radius me-2">
-                                                        <img src="{{asset('build/assets/images/shop/7.png')}}"
-                                                            class="avatar-radius" alt="product">
-                                                    </span>
-                                                    Vayon black shades
-                                                </div>
-                                            </td>
-                                            <td class="fw-semibold fs-15">
-                                                3.5 <span class="text-muted fw-normal fs-12">(36 Mem)</span> <i
-                                                    class="fa fa-star text-warning fs-12"></i>
-                                            </td>
+                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a></td>
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">#CV050081</a></td>
+
+                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                    href="#">T+2 BUY # 761996 GLAXO 9737</a></td>
                                             <td class="fs-14">
-                                                <a class="text-dark" href="javascript:void(0);">Khabib Hussain</a>
+                                                <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
                                             </td>
-                                            <td class="text-center">1</td>
-                                            <td><span
-                                                    class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
-                                            </td>
-                                            <td class="fs-14 fw-semibold">$2439.99</td>
+                                            <td class="text-center">0</td>
+                                            <td class="text-center">21,694,253.31</td>
+                                            <td class="fs-14 fw-semibold">#1539078</td>
                                             <td>
                                                 <span class="me-2">8 Apr 2022</span>
                                             </td>
+                                                                                        <td class="text-center"></td>
                                             <td>
                                                 <div class="hstack gap-2 fs-1">
                                                     <a aria-label="anchor" href="javascript:void(0);"
@@ -992,6 +1185,8 @@
                                                     </a>
                                                 </div>
                                             </td>
+
+                                            <td>
                                         </tr>
                                     </tbody>
                                 </table>
