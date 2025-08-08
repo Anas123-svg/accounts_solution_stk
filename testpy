@@ -1,0 +1,38 @@
+import os
+
+root_dir = r'O:\stocks_projects\accounts_solution'
+search_term = 'Dispatched'
+
+skip_dirs = {'vendor'}
+matched_files = []
+
+for dirpath, dirnames, filenames in os.walk(root_dir):
+    # Modify dirnames in-place to skip unwanted directories
+    dirnames[:] = [d for d in dirnames if d not in skip_dirs]
+
+    for filename in filenames:
+        if filename.endswith(('.php', '.js', '.html', '.txt', '.inc', '.tpl', '.phtml')):
+            filepath = os.path.join(dirpath, filename)
+            try:
+                with open(filepath, 'r', encoding='utf-8', errors='ignore') as file:
+                    lines = file.readlines()
+                    found = False
+                    for i, line in enumerate(lines):
+                        if search_term in line:
+                            print(f"\nFound '{search_term}' in:")
+                            print(f"File: {filepath}")
+                            print(f" Line {i + 1}: {line.strip()}")
+                            found = True
+                    if found:
+                        matched_files.append(filepath)
+                    else:
+                        print(f"Explored file: {filepath} No matches found.")
+            except Exception as e:
+                print(f"Could not read file: {filepath}. Error: {e}")
+
+if matched_files:
+    print(f"\nSummary Files containing '{search_term}':")
+    for file in matched_files:
+        print(f" {file}")
+else:
+    print(f"\nNo files found containing '{search_term}'.")

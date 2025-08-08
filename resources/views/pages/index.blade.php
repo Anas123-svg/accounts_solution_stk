@@ -59,9 +59,10 @@
                                         </td>
                                         <td class="fs-14 fw-semibold"><a class="text-dark" href="#">Mari</a>
                                         </td>
-                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark"
-                                                href="#">FFC</a></td>
-                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">Energy</a></td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">FFC</a>
+                                        </td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">Energy</a>
+                                        </td>
 
                                         <td class="fs-14">
                                             <a class="text-dark" href="javascript:void(0);">300</a>
@@ -69,8 +70,8 @@
                                         <td class="text-center">55%</td>
                                         <td class="text-center">15000</td>
                                         <!--<td><span
-                                                        class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
-                                                </td>-->
+                                                            class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
+                                                    </td>-->
                                         <td class="fs-14 fw-semibold">150</td>
                                         <td>
                                             <span class="me-2">300</span>
@@ -101,9 +102,10 @@
                                         </td>
                                         <td class="fs-14 fw-semibold"><a class="text-dark" href="#">Mari</a>
                                         </td>
-                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark"
-                                                href="#">FFC</a></td>
-                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">Energy</a></td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">FFC</a>
+                                        </td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">Energy</a>
+                                        </td>
 
                                         <td class="fs-14">
                                             <a class="text-dark" href="javascript:void(0);">300</a>
@@ -111,8 +113,8 @@
                                         <td class="text-center">55%</td>
                                         <td class="text-center">15000</td>
                                         <!--<td><span
-                                                        class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
-                                                </td>-->
+                                                            class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
+                                                    </td>-->
                                         <td class="fs-14 fw-semibold">150</td>
                                         <td>
                                             <span class="me-2">300</span>
@@ -136,16 +138,17 @@
                                                 </a>
                                             </div>
                                         </td>
-                                    </tr>                                    
+                                    </tr>
                                     <tr class="border-bottom user-list">
                                         <td class="user-checkbox text-center">
                                             <input class="form-check-input" type="checkbox" value="" checked="">
                                         </td>
                                         <td class="fs-14 fw-semibold"><a class="text-dark" href="#">Mari</a>
                                         </td>
-                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark"
-                                                href="#">FFC</a></td>
-                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">Energy</a></td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">FFC</a>
+                                        </td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">Energy</a>
+                                        </td>
 
                                         <td class="fs-14">
                                             <a class="text-dark" href="javascript:void(0);">300</a>
@@ -153,8 +156,8 @@
                                         <td class="text-center">55%</td>
                                         <td class="text-center">15000</td>
                                         <!--<td><span
-                                                        class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
-                                                </td>-->
+                                                            class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
+                                                    </td>-->
                                         <td class="fs-14 fw-semibold">150</td>
                                         <td>
                                             <span class="me-2">300</span>
@@ -178,16 +181,17 @@
                                                 </a>
                                             </div>
                                         </td>
-                                    </tr>                                    
+                                    </tr>
                                     <tr class="border-bottom user-list">
                                         <td class="user-checkbox text-center">
                                             <input class="form-check-input" type="checkbox" value="" checked="">
                                         </td>
                                         <td class="fs-14 fw-semibold"><a class="text-dark" href="#">Mari</a>
                                         </td>
-                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark"
-                                                href="#">FFC</a></td>
-                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">Energy</a></td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">FFC</a>
+                                        </td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">Energy</a>
+                                        </td>
 
                                         <td class="fs-14">
                                             <a class="text-dark" href="javascript:void(0);">300</a>
@@ -195,8 +199,8 @@
                                         <td class="text-center">55%</td>
                                         <td class="text-center">15000</td>
                                         <!--<td><span
-                                                        class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
-                                                </td>-->
+                                                            class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
+                                                    </td>-->
                                         <td class="fs-14 fw-semibold">150</td>
                                         <td>
                                             <span class="me-2">300</span>
@@ -220,16 +224,17 @@
                                                 </a>
                                             </div>
                                         </td>
-                                    </tr>                                    
+                                    </tr>
                                     <tr class="border-bottom user-list">
                                         <td class="user-checkbox text-center">
                                             <input class="form-check-input" type="checkbox" value="" checked="">
                                         </td>
                                         <td class="fs-14 fw-semibold"><a class="text-dark" href="#">Mari</a>
                                         </td>
-                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark"
-                                                href="#">FFC</a></td>
-                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">Energy</a></td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">FFC</a>
+                                        </td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">Energy</a>
+                                        </td>
 
                                         <td class="fs-14">
                                             <a class="text-dark" href="javascript:void(0);">300</a>
@@ -237,8 +242,8 @@
                                         <td class="text-center">55%</td>
                                         <td class="text-center">15000</td>
                                         <!--<td><span
-                                                        class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
-                                                </td>-->
+                                                            class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
+                                                    </td>-->
                                         <td class="fs-14 fw-semibold">150</td>
                                         <td>
                                             <span class="me-2">300</span>
@@ -262,293 +267,332 @@
                                                 </a>
                                             </div>
                                         </td>
-                                    </tr>                                </tbody>
+                                    </tr>
+                                </tbody>
                             </table>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    <div class="portfolio-chart-container">
-        <div class="chart-header">
-            <h2 class="chart-title">Portfolio Performance Dashboard</h2>
-        </div>
+        <div class="portfolio-chart-container">
+            <div class="chart-header">
+                <h2 class="chart-title">Portfolio Performance Dashboard</h2>
+            </div>
 
-        <div class="legend">
-            <div class="legend-item">
-                <div class="legend-dot portfolio"></div>
-                <span>Portfolio</span>
+            <div class="legend">
+                <div class="legend-item">
+                    <div class="legend-dot portfolio"></div>
+                    <span>Portfolio</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-dot index"></div>
+                    <span>Index</span>
+                </div>
             </div>
-            <div class="legend-item">
-                <div class="legend-dot index"></div>
-                <span>Index</span>
-            </div>
-        </div>
 
-        <div class="chart-wrapper">
-            <div id="portfolio-chart"></div>
-        </div>
-
-        <div class="stats-grid">
-            <div class="stat-card">
-                <div class="stat-value">$12,380</div>
-                <div class="stat-label">Current Portfolio</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-value">4,410</div>
-                <div class="stat-label">Current Index</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-value">+3.2%</div>
-                <div class="stat-label">Portfolio Change</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-value">+2.6%</div>
-                <div class="stat-label">Index Change</div>
-            </div>
-        </div>
-    </div>
-        <!-- Start::Row-1 -->
-            <div class="col-xl-12">
-                <div class="card">
-                    <div class="card-header">
-                        <h3 class="card-title mb-0">Transaction Details</Details>
-                        </h3>
+            <div class="charts-row">
+                <div class="chart-section">
+                    <div class="chart-wrapper">
+                        <div id="portfolio-chart"></div>
                     </div>
-                    <div class="card-body pt-4">
-                        <div class="grid-margin">
-                            <div class="table-responsive">
-                                <table class="table table-bordered text-nowrap mb-0">
-                                    <thead class="border-top">
-                                        <tr>
-                                            <th class="wp-5 border-bottom-0 my-auto text-center">
-                                                <input class="form-check-input check-all" type="checkbox" value=""
-                                                    id="checkebox-sm">
-                                            </th>
-                                            <th class="border-bottom-0">date</th>
-                                            <th class="border-bottom-0">entery no</th>
-                                            <th class="border-bottom-0">narration</th>
-                                            <th class="border-bottom-0">debit</th>
-                                            <th class="border-bottom-0">credit</th>
-                                            <th class="border-bottom-0 text-center">balance</th>
-                                            <th class="border-bottom-0">cheque_number</th>
-                                            <th class="border-bottom-0">cheque_date</th>
+                </div>
 
-                                            <th class="border-bottom-0">effect</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr class="border-bottom user-list">
-                                            <td class="user-checkbox text-center">
-                                                <input class="form-check-input" type="checkbox" value="" checked="">
-                                            </td>
-                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a>
-                                            </td>
-                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
-                                                    href="#">#CV050081</a></td>
-                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">T+2 BUY
-                                                    # 761996 GLAXO 9737</a></td>
+                <div class="chart-section">
+                    <div class="pie-chart-wrapper">
+                        <h3 class="chart-title-pie">Portfolio Allocation</h3>
+                        <canvas id="pie-chart"></canvas>
 
-                                            <td class="fs-14">
-                                                <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
-                                            </td>
-                                            <td class="text-center">0</td>
-                                            <td class="text-center">21,694,253.31</td>
-                                            <!--<td><span
-                                                        class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
-                                                </td>-->
-                                            <td class="fs-14 fw-semibold">#1539078</td>
-                                            <td>
-                                                <span class="me-2">25 Mar 2022</span>
-                                            </td>
-                                            <td class="text-center"></td>
-
-                                            <td>
-                                                <div class="hstack gap-2 fs-1">
-                                                    <a aria-label="anchor" href="javascript:void(0);"
-                                                        class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
-                                                        <i class="ri-edit-line"></i></a>
-                                                    <a aria-label="anchor" href="javascript:void(0);"
-                                                        class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
-                                                        <i class="ri-delete-bin-7-line"></i>
-                                                    </a>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="border-bottom user-list">
-                                            <td class="user-checkbox text-center">
-                                                <input class="form-check-input" type="checkbox" value="">
-                                            </td>
-                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
-                                                    href="#">29/07/2025</a></td>
-                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
-                                                    href="#">#CV050081</a></td>
-
-                                            <!--<td>
-                                                        --<div class="d-flex align-items-center">
-                                                                    <span class="avatar avatar-sm avatar-radius me-2">
-                                                                        <img src="{{asset('build/assets/images/shop/2.png')}}"
-                                                                            class="avatar-radius" alt="product">
-                                                                    </span>
-                                                                    Two type of watch sets
-                                                                </div>
-                                                        </td>-->
-                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">T+2 BUY
-                                                    # 761996 GLAXO 9737</a></td>
-                                            <td class="fs-14">
-                                                <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
-                                            </td>
-                                            <td class="text-center">0</td>
-                                            <td class="text-center">21,694,253.31</td>
-                                            <td class="fs-14 fw-semibold">#1539078</td>
-                                            <td>
-                                                <span class="me-2">25 Mar 2022</span>
-                                            </td>
-                                            <td class="text-center"></td>
-
-                                            <td>
-                                                <div class="hstack gap-2 fs-1">
-                                                    <a aria-label="anchor" href="javascript:void(0);"
-                                                        class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
-                                                        <i class="ri-edit-line"></i></a>
-                                                    <a aria-label="anchor" href="javascript:void(0);"
-                                                        class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
-                                                        <i class="ri-delete-bin-7-line"></i>
-                                                    </a>
-                                                </div>
-                                            </td>
-
-
-                                        </tr>
-                                        <tr class="border-bottom user-list">
-                                            <td class="user-checkbox text-center">
-                                                <input class="form-check-input" type="checkbox" value="">
-                                            </td>
-                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a></td>
-                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
-                                                    href="#">#CV050081</a></td>
-
-                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">T+2 BUY
-                                                    # 761996 GLAXO 9737</a></td>
-                                            <td class="fs-14">
-                                                <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
-                                            </td>
-                                            <td class="text-center">0</td>
-                                            <td class="text-center">21,694,253.31</td>
-                                            <td class="fs-14 fw-semibold">#1539078</td>
-                                            <td>
-                                                <span class="me-2">27 Feb 2022</span>
-                                            </td>
-                                            <td class="text-center"></td>
-                                            <td>
-                                                <div class="hstack gap-2 fs-1">
-                                                    <a aria-label="anchor" href="javascript:void(0);"
-                                                        class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
-                                                        <i class="ri-edit-line"></i></a>
-                                                    <a aria-label="anchor" href="javascript:void(0);"
-                                                        class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
-                                                        <i class="ri-delete-bin-7-line"></i>
-                                                    </a>
-                                                </div>
-                                            </td>
-
-                                        </tr>
-                                        <tr class="border-bottom user-list">
-                                            <td class="user-checkbox text-center">
-                                                <input class="form-check-input" type="checkbox" value="">
-                                            </td>
-                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a></td>
-                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
-                                                    href="#">#CV050081</a></td>
-                                            </td>
-
-                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">T+2 BUY
-                                                    # 761996 GLAXO 9737 </a></td>
-                                            <td class="fs-14">
-                                                <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
-                                            </td>
-                                            <td class="text-center">0</td>
-                                            <td class="text-center">21,694,253.31</td>
-                                            <td class="fs-14 fw-semibold">#1539078</td>
-                                            <td>
-                                                <span class="me-2">2 Apr 2022</span>
-                                            </td>
-
-                                            <td class="text-center"></td>
-                                            <td>
-                                                <div class="hstack gap-2 fs-1">
-                                                    <a aria-label="anchor" href="javascript:void(0);"
-                                                        class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
-                                                        <i class="ri-edit-line"></i></a>
-                                                    <a aria-label="anchor" href="javascript:void(0);"
-                                                        class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
-                                                        <i class="ri-delete-bin-7-line"></i>
-                                                    </a>
-                                                </div>
-                                            </td>
-
-                                            <td>
-                                        <tr class="border-bottom user-list">
-                                            <td class="user-checkbox text-center">
-                                                <input class="form-check-input" type="checkbox" value="">
-                                            </td>
-                                            <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a></td>
-                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark"
-                                                    href="#">#CV050081</a></td>
-
-                                            <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">T+2 BUY
-                                                    # 761996 GLAXO 9737</a></td>
-                                            <td class="fs-14">
-                                                <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
-                                            </td>
-                                            <td class="text-center">0</td>
-                                            <td class="text-center">21,694,253.31</td>
-                                            <td class="fs-14 fw-semibold">#1539078</td>
-                                            <td>
-                                                <span class="me-2">8 Apr 2022</span>
-                                            </td>
-                                            <td class="text-center"></td>
-                                            <td>
-                                                <div class="hstack gap-2 fs-1">
-                                                    <a aria-label="anchor" href="javascript:void(0);"
-                                                        class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
-                                                        <i class="ri-edit-line"></i></a>
-                                                    <a aria-label="anchor" href="javascript:void(0);"
-                                                        class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
-                                                        <i class="ri-delete-bin-7-line"></i>
-                                                    </a>
-                                                </div>
-                                            </td>
-
-                                            <td>
-                                        </tr>
-                                    </tbody>
-                                </table>
+                        <div class="pie-legend">
+                            <div class="pie-legend-item">
+                                <div class="pie-legend-dot" style="background: #667eea;"></div>
+                                <span>Technology (35%) - $4,333</span>
+                            </div>
+                            <div class="pie-legend-item">
+                                <div class="pie-legend-dot" style="background: #f093fb;"></div>
+                                <span>Healthcare (20%) - $2,476</span>
+                            </div>
+                            <div class="pie-legend-item">
+                                <div class="pie-legend-dot" style="background: #4ecdc4;"></div>
+                                <span>Finance (18%) - $2,228</span>
+                            </div>
+                            <div class="pie-legend-item">
+                                <div class="pie-legend-dot" style="background: #45b7d1;"></div>
+                                <span>Energy (12%) - $1,486</span>
+                            </div>
+                            <div class="pie-legend-item">
+                                <div class="pie-legend-dot" style="background: #f9ca24;"></div>
+                                <span>Consumer (10%) - $1,238</span>
+                            </div>
+                            <div class="pie-legend-item">
+                                <div class="pie-legend-dot" style="background: #f0932b;"></div>
+                                <span>Others (5%) - $619</span>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value">$12,380</div>
+                    <div class="stat-label">Current Portfolio</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">4,410</div>
+                    <div class="stat-label">Current Index</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">+3.2%</div>
+                    <div class="stat-label">Portfolio Change</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">+2.6%</div>
+                    <div class="stat-label">Index Change</div>
+                </div>
+            </div>
+        </div>
+        <!-- Start::Row-1 -->
+        <div class="col-xl-12">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title mb-0">Transaction Details</Details>
+                    </h3>
+                </div>
+                <div class="card-body pt-4">
+                    <div class="grid-margin">
+                        <div class="table-responsive">
+                            <table class="table table-bordered text-nowrap mb-0">
+                                <thead class="border-top">
+                                    <tr>
+                                        <th class="wp-5 border-bottom-0 my-auto text-center">
+                                            <input class="form-check-input check-all" type="checkbox" value=""
+                                                id="checkebox-sm">
+                                        </th>
+                                        <th class="border-bottom-0">date</th>
+                                        <th class="border-bottom-0">entery no</th>
+                                        <th class="border-bottom-0">narration</th>
+                                        <th class="border-bottom-0">debit</th>
+                                        <th class="border-bottom-0">credit</th>
+                                        <th class="border-bottom-0 text-center">balance</th>
+                                        <th class="border-bottom-0">cheque_number</th>
+                                        <th class="border-bottom-0">cheque_date</th>
+
+                                        <th class="border-bottom-0">effect</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr class="border-bottom user-list">
+                                        <td class="user-checkbox text-center">
+                                            <input class="form-check-input" type="checkbox" value="" checked="">
+                                        </td>
+                                        <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a>
+                                        </td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                href="#">#CV050081</a></td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">T+2 BUY
+                                                # 761996 GLAXO 9737</a></td>
+
+                                        <td class="fs-14">
+                                            <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
+                                        </td>
+                                        <td class="text-center">0</td>
+                                        <td class="text-center">21,694,253.31</td>
+                                        <!--<td><span
+                                                            class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
+                                                    </td>-->
+                                        <td class="fs-14 fw-semibold">#1539078</td>
+                                        <td>
+                                            <span class="me-2">25 Mar 2022</span>
+                                        </td>
+                                        <td class="text-center"></td>
+
+                                        <td>
+                                            <div class="hstack gap-2 fs-1">
+                                                <a aria-label="anchor" href="javascript:void(0);"
+                                                    class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
+                                                    <i class="ri-edit-line"></i></a>
+                                                <a aria-label="anchor" href="javascript:void(0);"
+                                                    class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
+                                                    <i class="ri-delete-bin-7-line"></i>
+                                                </a>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr class="border-bottom user-list">
+                                        <td class="user-checkbox text-center">
+                                            <input class="form-check-input" type="checkbox" value="">
+                                        </td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                href="#">29/07/2025</a></td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                href="#">#CV050081</a></td>
+
+                                        <!--<td>
+                                                            --<div class="d-flex align-items-center">
+                                                                        <span class="avatar avatar-sm avatar-radius me-2">
+                                                                            <img src="{{asset('build/assets/images/shop/2.png')}}"
+                                                                                class="avatar-radius" alt="product">
+                                                                        </span>
+                                                                        Two type of watch sets
+                                                                    </div>
+                                                            </td>-->
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">T+2 BUY
+                                                # 761996 GLAXO 9737</a></td>
+                                        <td class="fs-14">
+                                            <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
+                                        </td>
+                                        <td class="text-center">0</td>
+                                        <td class="text-center">21,694,253.31</td>
+                                        <td class="fs-14 fw-semibold">#1539078</td>
+                                        <td>
+                                            <span class="me-2">25 Mar 2022</span>
+                                        </td>
+                                        <td class="text-center"></td>
+
+                                        <td>
+                                            <div class="hstack gap-2 fs-1">
+                                                <a aria-label="anchor" href="javascript:void(0);"
+                                                    class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
+                                                    <i class="ri-edit-line"></i></a>
+                                                <a aria-label="anchor" href="javascript:void(0);"
+                                                    class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
+                                                    <i class="ri-delete-bin-7-line"></i>
+                                                </a>
+                                            </div>
+                                        </td>
+
+
+                                    </tr>
+                                    <tr class="border-bottom user-list">
+                                        <td class="user-checkbox text-center">
+                                            <input class="form-check-input" type="checkbox" value="">
+                                        </td>
+                                        <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a></td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                href="#">#CV050081</a></td>
+
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">T+2 BUY
+                                                # 761996 GLAXO 9737</a></td>
+                                        <td class="fs-14">
+                                            <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
+                                        </td>
+                                        <td class="text-center">0</td>
+                                        <td class="text-center">21,694,253.31</td>
+                                        <td class="fs-14 fw-semibold">#1539078</td>
+                                        <td>
+                                            <span class="me-2">27 Feb 2022</span>
+                                        </td>
+                                        <td class="text-center"></td>
+                                        <td>
+                                            <div class="hstack gap-2 fs-1">
+                                                <a aria-label="anchor" href="javascript:void(0);"
+                                                    class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
+                                                    <i class="ri-edit-line"></i></a>
+                                                <a aria-label="anchor" href="javascript:void(0);"
+                                                    class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
+                                                    <i class="ri-delete-bin-7-line"></i>
+                                                </a>
+                                            </div>
+                                        </td>
+
+                                    </tr>
+                                    <tr class="border-bottom user-list">
+                                        <td class="user-checkbox text-center">
+                                            <input class="form-check-input" type="checkbox" value="">
+                                        </td>
+                                        <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a></td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                href="#">#CV050081</a></td>
+                                        </td>
+
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">T+2 BUY
+                                                # 761996 GLAXO 9737 </a></td>
+                                        <td class="fs-14">
+                                            <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
+                                        </td>
+                                        <td class="text-center">0</td>
+                                        <td class="text-center">21,694,253.31</td>
+                                        <td class="fs-14 fw-semibold">#1539078</td>
+                                        <td>
+                                            <span class="me-2">2 Apr 2022</span>
+                                        </td>
+
+                                        <td class="text-center"></td>
+                                        <td>
+                                            <div class="hstack gap-2 fs-1">
+                                                <a aria-label="anchor" href="javascript:void(0);"
+                                                    class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
+                                                    <i class="ri-edit-line"></i></a>
+                                                <a aria-label="anchor" href="javascript:void(0);"
+                                                    class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
+                                                    <i class="ri-delete-bin-7-line"></i>
+                                                </a>
+                                            </div>
+                                        </td>
+
+                                        <td>
+                                    <tr class="border-bottom user-list">
+                                        <td class="user-checkbox text-center">
+                                            <input class="form-check-input" type="checkbox" value="">
+                                        </td>
+                                        <td class="fs-14 fw-semibold"><a class="text-dark" href="#">29/07/2025</a></td>
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark"
+                                                href="#">#CV050081</a></td>
+
+                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">T+2 BUY
+                                                # 761996 GLAXO 9737</a></td>
+                                        <td class="fs-14">
+                                            <a class="text-dark" href="javascript:void(0);">3,668,452.05</a>
+                                        </td>
+                                        <td class="text-center">0</td>
+                                        <td class="text-center">21,694,253.31</td>
+                                        <td class="fs-14 fw-semibold">#1539078</td>
+                                        <td>
+                                            <span class="me-2">8 Apr 2022</span>
+                                        </td>
+                                        <td class="text-center"></td>
+                                        <td>
+                                            <div class="hstack gap-2 fs-1">
+                                                <a aria-label="anchor" href="javascript:void(0);"
+                                                    class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
+                                                    <i class="ri-edit-line"></i></a>
+                                                <a aria-label="anchor" href="javascript:void(0);"
+                                                    class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
+                                                    <i class="ri-delete-bin-7-line"></i>
+                                                </a>
+                                            </div>
+                                        </td>
+
+                                        <td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- End::Row-1 -->
 
     </div>
     <!-- CONTAINER END -->
     <script>
-        let portfolioChart, portfolioSeries, indexSeries;
+        let portfolioChart, portfolioSeries, indexSeries, pieChart;
 
         function detectTheme() {
             // Check for various theme indicators
             return document.body.classList.contains('dark-mode') ||
-                   document.body.classList.contains('layout-dark') ||
-                   document.documentElement.getAttribute('data-theme-mode') === 'dark' ||
-                   document.documentElement.classList.contains('dark') ||
-                   window.matchMedia('(prefers-color-scheme: dark)').matches;
+                document.body.classList.contains('layout-dark') ||
+                document.documentElement.getAttribute('data-theme-mode') === 'dark' ||
+                document.documentElement.classList.contains('dark') ||
+                window.matchMedia('(prefers-color-scheme: dark)').matches;
         }
 
-        function createChart() {
+        function createLineChart() {
             const container = document.getElementById('portfolio-chart');
             if (!container) return;
-            
+
             // Clear existing chart
             if (portfolioChart) {
                 portfolioChart.remove();
@@ -557,6 +601,7 @@
             const isDark = detectTheme();
 
             portfolioChart = LightweightCharts.createChart(container, {
+            
                 layout: {
                     background: { type: 'solid', color: 'transparent' },
                     textColor: isDark ? '#e2e8f0' : '#2d3748',
@@ -564,26 +609,26 @@
                     fontFamily: 'Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif',
                 },
                 grid: {
-                    vertLines: { 
+                    vertLines: {
                         color: isDark ? 'rgba(255, 255, 255, 0.08)' : 'rgba(0, 0, 0, 0.08)',
                         style: LightweightCharts.LineStyle.Solid,
                     },
-                    horzLines: { 
+                    horzLines: {
                         color: isDark ? 'rgba(255, 255, 255, 0.08)' : 'rgba(0, 0, 0, 0.08)',
                         style: LightweightCharts.LineStyle.Solid,
                     },
                 },
-                rightPriceScale: { 
+                rightPriceScale: {
                     visible: true,
                     borderColor: isDark ? 'rgba(255, 255, 255, 0.12)' : 'rgba(0, 0, 0, 0.12)',
                     textColor: isDark ? '#a0aec0' : '#4a5568',
                 },
-                leftPriceScale: { 
+                leftPriceScale: {
                     visible: true,
                     borderColor: isDark ? 'rgba(255, 255, 255, 0.12)' : 'rgba(0, 0, 0, 0.12)',
                     textColor: isDark ? '#a0aec0' : '#4a5568',
                 },
-                crosshair: { 
+                crosshair: {
                     mode: LightweightCharts.CrosshairMode.Normal,
                     vertLine: {
                         color: isDark ? 'rgba(255, 255, 255, 0.4)' : 'rgba(0, 0, 0, 0.4)',
@@ -663,11 +708,86 @@
             resizeObserver.observe(container);
         }
 
+        function createPieChart() {
+            const canvas = document.getElementById('pie-chart');
+            if (!canvas) return;
+
+            // Clear existing chart
+            if (pieChart) {
+                pieChart.destroy();
+            }
+
+            const isDark = detectTheme();
+            const ctx = canvas.getContext('2d');
+
+            pieChart = new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Technology', 'Healthcare', 'Finance', 'Energy', 'Consumer', 'Others'],
+                    datasets: [{
+                        data: [35, 20, 18, 12, 10, 5],
+                        backgroundColor: [
+                            '#667eea',
+                            '#f093fb',
+                            '#4ecdc4',
+                            '#45b7d1',
+                            '#f9ca24',
+                            '#f0932b'
+                        ],
+                        borderWidth: 0,
+                        hoverBorderWidth: 2,
+                        hoverBorderColor: isDark ? '#ffffff' : '#000000',
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            display: false // We're using custom legend
+                        },
+                        tooltip: {
+                            backgroundColor: isDark ? '#2d3748' : '#ffffff',
+                            titleColor: isDark ? '#f7fafc' : '#2d3748',
+                            bodyColor: isDark ? '#e2e8f0' : '#4a5568',
+                            borderColor: isDark ? 'rgba(255, 255, 255, 0.1)' : 'rgba(0, 0, 0, 0.1)',
+                            borderWidth: 1,
+                            cornerRadius: 8,
+                            callbacks: {
+                                label: function (context) {
+                                    const label = context.label || '';
+                                    const value = context.parsed || 0;
+                                    const total = 12380; // Total portfolio value
+                                    const amount = Math.round((value / 100) * total);
+                                    return `${label}: ${value}% ($${amount.toLocaleString()})`;
+                                }
+                            }
+                        }
+                    },
+                    cutout: '60%',
+                    animation: {
+                        animateRotate: true,
+                        duration: 1500,
+                        easing: 'easeOutQuart'
+                    },
+                    interaction: {
+                        intersect: false,
+                        mode: 'point'
+                    }
+                }
+            });
+        }
+
+        function createCharts() {
+            createLineChart();
+            createPieChart();
+        }
+
         // Watch for theme changes
         function watchThemeChanges() {
             // Watch for class changes on body and html
             const observer = new MutationObserver(() => {
-                createChart();
+                createCharts();
             });
 
             observer.observe(document.body, {
@@ -681,12 +801,12 @@
             });
 
             // Also listen for media query changes
-            window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', createChart);
+            window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', createCharts);
         }
 
         // Initialize
         function init() {
-            createChart();
+            createCharts();
             watchThemeChanges();
         }
 
@@ -698,7 +818,7 @@
         }
 
         // Expose refresh function globally in case needed
-        window.refreshPortfolioChart = createChart;
+        window.refreshPortfolioChart = createCharts;
     </script>
 
 
@@ -713,10 +833,8 @@
     <!-- Color Picker JS -->
     <script src="{{asset('build/assets/libs/@simonwep/pickr/pickr.es5.min.js')}}"></script>
 
-    <!-- Checkbox selectall JS -->
     @vite('resources/assets/js/checkbox-selectall.js')
 
-    <!-- INTERNAL INDEX JS -->
     @vite('resources/assets/js/index1.js')
 
 @endsection
